@@ -1,7 +1,7 @@
 ###
 
 <h2 style="display: inline; margin-right: 50px;">Olá! Eu sou o Mateus Nespoli 👋</h2>
-<a href="https://www.linkedin.com/in/mateus-nespoli-74b577224/" target="_blank">
+<a href="" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="linkedin logo" style="vertical-align: middle;" />
 </a>
 
